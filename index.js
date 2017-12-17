@@ -11,7 +11,7 @@ if (typeof hexo !== 'undefined') {
     let assets = [];
 
     const format = require('util').format;
-    let theme_name = config.theme_name;
+    let theme_name = config ? config.theme_name : '';
     theme_name = theme_name ? theme_name : '';
 
     // generate js script

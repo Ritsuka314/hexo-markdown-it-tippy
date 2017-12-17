@@ -1,6 +1,6 @@
 {
   "name": "hexo-tippy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A hexo plugin to display markdown footnotes as tooltips, with support of rich text.",
   "keywords": [
     "hexo",
