@@ -1,4 +1,4 @@
-# hexo_tippy
+# hexo-markdown-it-tippy
 
 A hexo plugin to add tooltips to your blog posts using [tippy](https://atomiks.github.io/tippyjs/).
 
@@ -8,6 +8,8 @@ e.g.,
 
 * allowing footnote identifiers other than just numbers (e.g., [^footnote])
 * allowing  rich text in footnote
+
+This edition works with hexo-renderer-markdown-it. Another edition named hexo-pandoc-tippy works with hexo-renderer-pandoc.
 
 ## Getting Started
 
