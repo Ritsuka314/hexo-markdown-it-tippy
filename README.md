@@ -9,7 +9,7 @@ e.g.,
 * allowing footnote identifiers other than just numbers (e.g., [^footnote])
 * allowing  rich text in footnote
 
-This edition works with hexo-renderer-markdown-it. Another edition named hexo-pandoc-tippy works with hexo-renderer-pandoc.
+This edition works with hexo-renderer-markdown-it-plus. Another edition named hexo-pandoc-tippy works with hexo-renderer-pandoc.
 
 ## Getting Started
 
@@ -26,9 +26,7 @@ npm should have automaticlly installed the above packages for you.
 
 Further more, this plugin also requires:
 * [hexo](https://hexo.io/): 3.4.3
-*   either [hexo-renderer-markdown-it-plus](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus): 1.0.2 (recommended)
-
-    or [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it): 3.4.1 (not tested, although technically possibly compatible)
+* [hexo-renderer-markdown-it-plus](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus): 1.0.2 (recommended)
 * [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote): 3.0.1
 
 You have to install the above packages yourself.
