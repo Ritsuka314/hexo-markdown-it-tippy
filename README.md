@@ -1,3 +1,9 @@
+Note from the author:
+
+Due to parsing defects of Markdown-it, the author recommend to use pandoc as renderer and provide a similar plugin as [hexo-pandoc-tippy](https://github.com/RichardYan314/hexo-pandoc-tippy). Since the author is no longer using this plugin, it is very occasionally synced from hexo-pandoc-tippy and therefore may contain bugs that are already fixed, or may not contain new features introduced in hexo-pandoc-tippy.
+
+The author encourage using hexo-pandoc-tippy in conjunction with pandoc renderer. But, as there are always situations in which markdown-it is preferred over pandoc, the author is still very happy to fix any issue that you may bring up with. But be warned that currently this plugin may not perfect.
+
 # hexo-markdown-it-tippy
 
 A hexo plugin to add tooltips to your blog posts using [tippy](https://atomiks.github.io/tippyjs/).
